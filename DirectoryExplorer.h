@@ -15,7 +15,6 @@ class DirectoryExplorer
 public:
 
 	DirectoryExplorer(bool verbose);
-
 	void Execute(std::string directory_path);
 };
 
