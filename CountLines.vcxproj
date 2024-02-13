@@ -131,6 +131,7 @@
     <ClCompile Include="CountLines.cpp" />
     <ClCompile Include="DirectoryExplorer.cpp" />
     <ClCompile Include="DirectoryExplorer.h" />
+    <ClCompile Include="Include.cpp" />
     <ClCompile Include="Parser.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -4,4 +4,7 @@
     <LocalDebuggerCommandArguments>"C:\Users\Derek\Documents\Cursos Intel I-2024\Modern C++\Proyecto 1 version final\Source_Files\tests" 0</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
 </Project>
