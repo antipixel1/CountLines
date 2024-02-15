@@ -1,11 +1,7 @@
-
-
-
+#pragma once
 #include <cassert>
 #include <fstream>
-
 #include "Parser.h"
-
 #include <filesystem>
 
 

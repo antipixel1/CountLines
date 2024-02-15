@@ -1,7 +1,4 @@
 #pragma once
-
-
-
 #include <memory>
 #include <string>
 #include <vector>
@@ -9,7 +6,6 @@
 #include <algorithm>
 #include <ranges>
 #include <format>
-
 #include "printer.h"
 
 enum class IncludeType
